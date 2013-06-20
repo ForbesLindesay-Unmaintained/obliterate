@@ -1,6 +1,6 @@
 {
   "name": "obliterate",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "CLI to obliterate a directory",
   "bin": "./bin/cli.js",
   "dependencies": {
