@@ -1,0 +1,20 @@
+{
+  "name": "obliterate",
+  "version": "0.0.0",
+  "description": "CLI to obliterate a directory",
+  "bin": "./bin/cli.js",
+  "dependencies": {
+    "rimraf": "~2.1.4"
+  },
+  "devDependencies": {
+    "linify": "~1.0.1"
+  },
+  "scripts": {
+    "prepublish": "linify transform ./bin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ForbesLindesay/obliterate.git"
+  },
+  "license": "MIT"
+}
