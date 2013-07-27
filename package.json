@@ -16,5 +16,6 @@
     "type": "git",
     "url": "https://github.com/ForbesLindesay/obliterate.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "author": "ForbesLindesay"
 }
