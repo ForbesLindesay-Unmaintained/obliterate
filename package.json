@@ -4,7 +4,7 @@
   "description": "CLI to obliterate a directory",
   "bin": "./bin/cli.js",
   "dependencies": {
-    "rimraf": "~2.1.4"
+    "rimraf": "~2.6.1"
   },
   "devDependencies": {
     "linify": "~1.0.1"
